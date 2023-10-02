@@ -1,1 +1,1 @@
-this is my assignment on 0x03-ES6_data_manipulation
+This is my assignment on 0x03-ES6_data_manipulation
